@@ -16,16 +16,24 @@ Requirements:
 If you have any thoughts on the game or you have any suggestions, don't hestiate to let me know.
 </p>
 <p><h2>GUI</h2>
+<h3>Client:</h3>
 Login page:
-<img src="https://github.com/Jaycome/Eagle/blob/main/login.png" height="480px" width="320px" />
+<img src="https://github.com/Jaycome/Filmy/blob/main/login.png" height="640px" width="900px" />
 Register page:
-<img src="https://github.com/Jaycome/Eagle/blob/main/register.png" height="480px" width="320px" />
+<img src="https://github.com/Jaycome/Filmy/blob/main/register.png" height="640px" width="900px" />
 Main page:
-<img src="https://github.com/Jaycome/Eagle/blob/main/Eagle main page.png" height="480px" width="320px" /> 
-Recording page:
-<img src="https://github.com/Jaycome/Eagle/blob/main/record.png" height="480px" width="320px" />
-Blocking page:
-<img src="https://github.com/Jaycome/Eagle/blob/main/block.png" height="320px" width="480px" />
-Report page:
-<img src="https://github.com/Jaycome/Eagle/blob/main/report.png" height="480px" width="320px" />
+<img src="https://github.com/Jaycome/Filmy/blob/main/main page.png" height="640px" width="900px" />
+Film information:
+<img src="https://github.com/Jaycome/Filmy/blob/main/video info.png" height="640px" width="900px" />
+Film streaming:
+<img src="https://github.com/Jaycome/Filmy/blob/main/video.png" height="640px" width="900px" />
+Problem report:
+<img src="https://github.com/Jaycome/Filmy/blob/main/問題回報.png" height="640px" width="900px" />
+<h3>Server:</h3>
+Member management:
+<img src="https://github.com/Jaycome/Filmy/blob/main/member management.png" height="640px" width="900px" />
+Film management:
+<img src="https://github.com/Jaycome/Filmy/blob/main/film management.png" height="640px" width="900px" />
+Report management:
+<img src="https://github.com/Jaycome/Filmy/blob/main/report management.png" height="640px" width="900px" />
 </p>
