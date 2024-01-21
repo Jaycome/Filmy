@@ -28,7 +28,7 @@ Film information:
 Film streaming:
 <img src="https://github.com/Jaycome/Filmy/blob/main/video.png" height="640px" width="900px" />
 Problem report:
-<img src="https://github.com/Jaycome/Filmy/blob/main/問題回報.png" height="640px" width="900px" />
+<img src="https://github.com/Jaycome/Filmy/blob/main/problem report.png" height="640px" width="900px" />
 <h3>Server:</h3>
 Member management:
 <img src="https://github.com/Jaycome/Filmy/blob/main/member management.png" height="640px" width="900px" />
